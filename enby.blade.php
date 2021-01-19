@@ -39,7 +39,7 @@
 <div class="container" >
     <h1>Gender neutral language in German</h1>
 <p style="font-family: Consolas,serif">
-    This is a non-professional translation of the German page <a href="https://nibi.space/geschlechtsneutrale_sprache">nibi.space on the issue of gender neutral speech</a> in German.
+    This is a non-professional translation of the German page <a href="https://nibi.space/geschlechtsneutrale_sprache">nibi.space, as it appeared on 2020-01-19, on the issue of gender neutral speech</a> in German.
     The translation is not meant to be literal, but instead attempts to capture the most important points and to lay them out for someone who doesn't speak German. <br>
     All links on this page will link to pages in the original German source.<br>
     You can hover over most German words or sentences to see an English translation / approximation. Example: <span class="tip" data-bs-toggle="tooltip" title="This is the author.">Das ist dey Autor_in.</span><br>
@@ -106,13 +106,7 @@
                 </ul>
             </li>
             <li class="level1">
-                <div class="li"> Grammatikalische Wörter und Endungen, die weder männlich noch weiblich interpretiert
-                    werden, also Alternativen zu „der/die“, „ein/eine“, „gute/r“, „nette/n“ in Ausdrücken wie „der/die
-                    Schüler/in“, „ein/eine gute/r Freund/in“, „den/die nette/n Verkäufer/in“. Auf der Seite <a
-                        href="https://nibi.space/vergleich_geschlechtsneutraler_deklinationssysteme" class="wikilink1"
-                        title="vergleich_geschlechtsneutraler_deklinationssysteme">Vergleich geschlechtsneutraler
-                        Deklinationssysteme</a> werden verschiedene diesbezügliche Vorschläge miteinander verglichen.
-
+                <div class="li">
                     Grammatical words and endings that are interpreted as neither masculine nor feminine, like alternatives to
                     <span class="tip" data-bs-toggle="tooltip" title="&quot;the&quot;, but gendered">„der/die“</span>,
                     <span class="tip" data-bs-toggle="tooltip" title="&quot;a&quot;, but gendered">„ein/eine“</span>, „gute/r“, „nette/n“ in statements like
@@ -130,18 +124,14 @@
         <ul>
             <li class="level1">
                 <div class="li"> Noticeability: many non-binary people want the form to be impossible to ignore. A common request is that it should "disrupt the flow of reading" to make the reader reflect.
-                    <span class="tip" data-bs-toggle="tooltip" title="This, however, is a big issue for acceptance in the public, and is one of the most commonly used counterpoints to gender-inclusive language">[note]</span>
+                    <span class="tip" data-bs-toggle="tooltip" title="This, however, is a big issue for acceptance in the public, and is one of the most commonly used counterpoints to gender-inclusive language.">[note]</span>
                 </div>
             </li>
             <li class="level1 node">
                 <div class="li"> Low barriers:</div>
                 <ul>
                     <li class="level2">
-                        <div class="li"> Viele der hier präsentierten Vorschläge machen es für Menschen mit
-                            verschiedenen Behinderungen, Lernschwierigkeiten und <a
-                                href="https://nibi.space/neurodivergenz" class="wikilink1" title="neurodivergenz">Neurodivergenzen</a>
-                            schwieriger oder unmöglich, einen Text zu lesen und zu verstehen. Das betrifft vor allem die
-                            Formen, die verwirren, innehalten lassen oder eben den Lesefluss stören.
+                        <div class="li">
                             Many of the suggestions presented here make it more difficult or impossible for people with various disabilities,
                             learning difficulties, and <a
                                 href="https://nibi.space/neurodivergenz" class="wikilink1" title="neurodivergenz">neurodivergences</a>
@@ -149,12 +139,7 @@
                         </div>
                     </li>
                     <li class="level2">
-                        <div class="li"> Wer statt dem Bildschirm oder ergänzend dazu <a
-                                href="https://de.wikipedia.org/wiki/Screenreader" class="urlextern"
-                                title="https://de.wikipedia.org/wiki/Screenreader" rel="nofollow">Sprachausgabe</a>
-                            verwendet, um Texte zu lesen, ist bei Satz- und Sonderzeichen mitten im Wort darauf
-                            angewiesen, <a href="https://nibi.space/text_to_speech" class="wikilink1"
-                                           title="text_to_speech">wie dieses Programm sie vorliest</a>.
+                        <div class="li">
                             Especially in case of punctuation marks and special characters, People who use <a
                                 href="https://en.wikipedia.org/wiki/Screenreader" class="urlextern"
                                 title="https://en.wikipedia.org/wiki/Screenreader" rel="nofollow">screen readers</a>
@@ -168,104 +153,86 @@
 
     </div>
 
-    <h2 class="sectionedit3" id="diskussionsgruppe_geschlechtsneutrales_deutsch">Diskussionsgruppe &quot;Geschlechtsneutrales
-        Deutsch&quot;</h2>
+    <h2 class="sectionedit4" id="das_del-on-sel-system">The Del-On-Sel-System</h2>
     <div class="level2">
 
         <p>
-            Auf Facebook gibt es die Gruppe <a href="https://www.facebook.com/groups/geschlechtsneutral"
-                                               class="urlextern"
-                                               title="https://www.facebook.com/groups/geschlechtsneutral"
-                                               rel="nofollow">Gechlechtsneutrales Deutsch</a>, auf der sich verschiedene
-            an diesem Thema interessierte Personen über mögliche Lösungen für geschlechtsneutrale Sprache austauschen.
-            Am meisten Beachtung in den dortigen Diskussionen hatten bis jetzt das <a
-                href="https://geschlechtsneutral.net" class="urlextern" title="https://geschlechtsneutral.net"
-                rel="nofollow">Del-On-Sel-System</a> sowie das <a href="https://www.ggenus.de" class="urlextern"
-                                                                  title="https://www.ggenus.de"
-                                                                  rel="nofollow">g-Genus</a> (siehe unten für
-            Kurzbeschreibungen dieser beiden Systeme).
-        </p>
+            The Del-On-Sel system is a proposal to expand the German language with easily pronounceable gender-neutral words.
+            words. For this purpose, new nouns ending in <em><strong>-on</strong></em> are introduced,
+            where as a new article <em><strong>del</strong></em> (instead of <em><span class="tip" data-bs-toggle="tooltip" title="&quot;the&quot;, but gendered">der/die</span></em>) and as a new pronoun.
+            <em><strong>sel</strong></em> (instead of <span class="tip" data-bs-toggle="tooltip" title="he/she"><em>er/sie</em></span>) is used:
 
-    </div>
 
-    <h2 class="sectionedit4" id="das_del-on-sel-system">Das Del-On-Sel-System</h2>
-    <div class="level2">
-
-        <p>
-            Das Del-On-Sel-System ist ein Vorschlag, die deutsche Sprache um leicht aussprechbare geschlechtsneutrale
-            Wörter zu erweitern. Dafür werden neue Substantive mit der Endung <em><strong>-on</strong></em> eingeführt,
-            wobei als neuer Artikel <em><strong>del</strong></em> (statt <em>der/die</em>) und als neues Pronomen
-            <em><strong>sel</strong></em> (statt <em>er/sie</em>) verwendet wird:
         </p>
         <ul>
             <li class="level1">
-                <div class="li"><strong>del</strong> Lehrer<strong>on</strong></div>
+                <div class="li"><span class="tip" data-bs-toggle="tooltip" title="the teacher"><strong>del</strong> Lehrer<strong>on</strong></span></div>
             </li>
             <li class="level1">
-                <div class="li"><strong>del</strong> Schüler<strong>on</strong></div>
+                <div class="li"><span class="tip" data-bs-toggle="tooltip" title="the student"><strong>del</strong> Schüler<strong>on</strong></span></div>
             </li>
             <li class="level1">
-                <div class="li"><strong>del</strong> Kolleg<strong>on</strong></div>
+                <div class="li"><span class="tip" data-bs-toggle="tooltip" title="the colleague"><strong>del</strong> Kolleg<strong>on</strong></span></div>
             </li>
             <li class="level1">
-                <div class="li"><strong>del</strong> Student<strong>on</strong></div>
+                <div class="li"><span class="tip" data-bs-toggle="tooltip" title="the student"><strong>del</strong> Student<strong>on</strong></span></div>
             </li>
             <li class="level1">
-                <div class="li"><strong>del</strong> Freund<strong>on</strong></div>
+                <div class="li"><span class="tip" data-bs-toggle="tooltip" title="the friend"><strong>del</strong> Freund<strong>on</strong></span></div>
             </li>
             <li class="level1">
-                <div class="li"><strong>sel</strong></div>
+                <div class="li"><span class="tip" data-bs-toggle="tooltip" title="they"><strong>sel</strong></span></div>
             </li>
         </ul>
 
         <p>
-            Die neuen geschlechtsneutralen Formen bilden neben dem Maskulinum, dem Femininum und dem Neutrum ein viertes
-            Genus, das den Namen <em>Utrum</em> trägt. Die folgenden Beispiele zeigen, wie man die neuen Utrum-Formen in
-            den verschiedenen grammatikalischen Fällen deklinieren kann:
+            The new gender-neutral forms form, in addition to the Maskulinum, Femininum, and Neutrum, a fourth
+            Genus, the <em>Utrum</em>. The following examples show how to use the new utrum forms in
+            the different grammatical cases can be declined:
         </p>
         <ul>
             <li class="level1">
-                <div class="li"><strong>Del</strong> Lehrer<strong>on</strong> gibt <strong>derl</strong>
-                    Schüler<strong>on</strong> das Buch.
+                <div class="li"><span class="tip" data-bs-toggle="tooltip" title="The teacher gives the book to the student."><strong>Del</strong> Lehrer<strong>on</strong> gibt <strong>derl</strong>
+                    Schüler<strong>on</strong> das Buch.</span>
                 </div>
             </li>
             <li class="level1">
-                <div class="li"><strong>Sel</strong> gibt <strong>serl</strong> das Buch.</div>
+                <div class="li"><span class="tip" data-bs-toggle="tooltip" title="They give them the book."><strong>Sel</strong> gibt <strong>serl</strong> das Buch.</span></div>
             </li>
             <li class="level1">
-                <div class="li"> Das Buch mein<strong>erl</strong> Lehrer<strong>on</strong> ist interessant.</div>
+                <div class="li"> <span class="tip" data-bs-toggle="tooltip" title="My teacher's book is interesting">Das Buch mein<strong>erl</strong> Lehrer<strong>on</strong> ist interessant.</span></div>
             </li>
             <li class="level1">
-                <div class="li"> Kennst Du schon mein<strong>el</strong> Freund<strong>on</strong> Kim und <strong>serlel</strong>
-                    Kolleg<strong>on</strong> Andrea?
+                <div class="li"> <span class="tip" data-bs-toggle="tooltip" title="Do you know my friend Kim and their colleague Andrea?">Kennst Du schon mein<strong>el</strong> Freund<strong>on</strong> Kim und <strong>serlel</strong>
+                        Kolleg<strong>on</strong> Andrea?</span>
                 </div>
             </li>
         </ul>
 
         <p>
-            Mehr Infos gibt es auf der <a href="https://geschlechtsneutral.net" class="urlextern"
-                                          title="https://geschlechtsneutral.net" rel="nofollow">Webseite des
-                Del-On-Sel-Systems</a>.
+            More information is available on the <a href="https://geschlechtsneutral.net" class="urlextern"
+                                          title="https://geschlechtsneutral.net" rel="nofollow">website of the
+                Del-On-Sel-System</a>.
         </p>
 
     </div>
 
-    <h2 class="sectionedit5" id="das_g-genus">Das g-Genus</h2>
+    <h2 class="sectionedit5" id="das_g-genus">The g-Genus</h2>
     <div class="level2">
         <div class="table sectionedit6">
             <table class="inline">
                 <tr class="row0">
-                    <th class="col0">Substantive: erhalten <em><em class="u">-is</em></em> angefügt.</th>
+                    <th class="col0">substantives: <em><em class="u">-is</em></em> gets appended.</th>
                 </tr>
                 <tr class="row1">
-                    <td class="col0">Schüleris, Studentis.</td>
+                    <td class="col0"><span class="tip" data-bs-toggle="tooltip" title="school students">Schüleris</span>, <span class="tip" data-bs-toggle="tooltip" title="college students">Studentis</span>.</td>
                 </tr>
                 <tr class="row2">
                     <td class="col0">Plural: Schüleris, Studentis.</td>
                 </tr>
                 <tr class="row3">
-                    <td class="col0">Eine eigene Plural-Endung ist verzichtbar, als ja auch maskuline Substantive auf
-                        <em>-er</em> ohne Pluralmarkierung am Substantiv auskommen („der/ die Fahrer“).
+                    <td class="col0">A separate plural ending is unnecessary, as masculine nouns ending in <em>-er</em> can also do without a plural marking on the noun
+                        <span class="tip" data-bs-toggle="tooltip" title="the driver / the drivers">("der/ die Fahrer")</span>.
                     </td>
                 </tr>
             </table>
